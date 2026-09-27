@@ -1,0 +1,118 @@
+
+> eventforge-india@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.13
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 5.5s
+ ○ Compiling / ...
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+ GET / 500 in 6212ms
+ ⨯ ./app/page.tsx
+Error: 
+  [31mx[0m Unexpected token `div`. Expected jsx identifier
+     ,-[[36;1;4m/mnt/Data/Veruthe oru folder/Project/Test/event_calendar/app/page.tsx[0m:237:1]
+ [2m237[0m |   const handleSubmitSource = () => setSourceSubmissionOpen(true);
+ [2m238[0m | 
+ [2m239[0m |   return (
+ [2m240[0m |     <div className="min-h-screen bg-neo-white p-6">
+     : [31;1m     ^^^[0m
+ [2m241[0m |       {/* Header */}
+ [2m242[0m |       <div className="mb-6">
+ [2m243[0m |         <h1 className="font-display text-4xl font-black text-neo-black uppercase tracking-tight">
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/page.tsx
+ ✓ Compiled /_error in 66ms (49 modules)
+ ○ Compiling / ...
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+ GET / 500 in 2164ms
+ GET /_next/static/chunks/fallback/webpack.js 500 in 21ms
+ GET /_next/static/chunks/fallback/main.js 500 in 20ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 29ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 28ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 18ms
+ GET / 500 in 27ms
+ GET /_next/static/chunks/fallback/webpack.js 500 in 17ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 24ms
+ GET /_next/static/chunks/fallback/main.js 500 in 23ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 20ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 20ms
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+ ⨯ ./app/globals.css
+Module not found: Can't resolve 'tailwindcss'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/globals.css
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/mnt/Data/Veruthe oru folder/Project/Test/event_calendar/.next/cache/webpack/client-development/3.pack.gz_' -> '/mnt/Data/Veruthe oru folder/Project/Test/event_calendar/.next/cache/webpack/client-development/3.pack.gz'
+ ✓ Compiled / in 644ms (313 modules)
+ GET / 500 in 668ms
+ ✓ Compiled in 1578ms (526 modules)
+ ✓ Compiled / in 265ms (313 modules)
+[supabase] env vars missing — running in offline/mock mode
+ GET / 200 in 555ms
+ ✓ Compiled in 856ms (512 modules)
+ ✓ Compiled in 767ms (463 modules)
+ ✓ Compiled in 270ms (463 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/mnt/Data/Veruthe oru folder/Project/Test/event_calendar/.next/cache/webpack/client-development/2.pack.gz_' -> '/mnt/Data/Veruthe oru folder/Project/Test/event_calendar/.next/cache/webpack/client-development/2.pack.gz'
